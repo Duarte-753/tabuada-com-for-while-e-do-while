@@ -1,0 +1,8 @@
+C:\Users\Julio Duarte\Desktop\Exercícios katia\tabuada com for, while e do while\bin\Debug\tabuada com for, while e do while.exe.config
+C:\Users\Julio Duarte\Desktop\Exercícios katia\tabuada com for, while e do while\bin\Debug\tabuada com for, while e do while.exe
+C:\Users\Julio Duarte\Desktop\Exercícios katia\tabuada com for, while e do while\bin\Debug\tabuada com for, while e do while.pdb
+C:\Users\Julio Duarte\Desktop\Exercícios katia\tabuada com for, while e do while\obj\Debug\tabuada com for, while e do while.csproj.AssemblyReference.cache
+C:\Users\Julio Duarte\Desktop\Exercícios katia\tabuada com for, while e do while\obj\Debug\tabuada com for, while e do while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julio Duarte\Desktop\Exercícios katia\tabuada com for, while e do while\obj\Debug\tabuada com for, while e do while.csproj.CoreCompileInputs.cache
+C:\Users\Julio Duarte\Desktop\Exercícios katia\tabuada com for, while e do while\obj\Debug\tabuada com for, while e do while.exe
+C:\Users\Julio Duarte\Desktop\Exercícios katia\tabuada com for, while e do while\obj\Debug\tabuada com for, while e do while.pdb
